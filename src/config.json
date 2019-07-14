@@ -1,14 +1,14 @@
 {
     "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "appname": "Moodle Field",
+    "desktopappname": "Moodle Field",
     "versioncode": 3700,
     "versionname": "3.7.0-dev",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "zh-cn",
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -69,8 +69,8 @@
         }
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "https://dingdingpang.ml",
+    "sitename": "Moodle Field",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
